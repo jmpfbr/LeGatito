@@ -4,47 +4,74 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
-O **LeGatito** é um site fictício de pet shop totalmente focado em artigos felinos. O projeto foi desenvolvido para praticar a estruturação de sites multi-páginas e navegação entre seções.
+O **LeGatito** é um site fictício de pet shop totalmente focado em artigos felinos, desenvolvido para praticar a estruturação de sites multi-páginas e design responsivo.
 
 ---
 
 ## 📋 Sobre o Projeto
 
-O site oferece uma interface amigável para navegação em diferentes categorias de produtos para gatos, contando com páginas específicas para cada tipo de item e uma página de erro personalizada.
+O projeto simula uma loja virtual completa para gatos, oferecendo uma interface amigável e navegação fluida entre diferentes categorias de produtos e serviços.
 
 ---
 
-## 📂 Estrutura do Site
+## 🎯 Funcionalidades
 
-O projeto está organizado com as seguintes páginas:
-
-* **`index.html`**: Página inicial do pet shop.
-* **`alimentos.html`**: Seção de rações e petiscos.
-* **`arranhadores.html`**: Catálogo de arranhadores.
-* **`bolinhas.html`**: Seção de brinquedos do tipo bolinha.
-* **`brinquedos.html`**: Variedade de brinquedos interativos.
-* **`erro404.html`**: Página de erro personalizada para links quebrados.
-* **`img/`**: Pasta contendo todos os recursos visuais e fotos dos produtos.
+- 🥩 **Alimentos**: Seção dedicada a rações e petiscos selecionados.
+- 🧶 **Brinquedos**: Catálogo variado de bolinhas e itens interativos.
+- 🪜 **Arranhadores**: Exibição de móveis e acessórios para gatos.
+- 🚫 **Página de Erro**: Implementação de página 404 personalizada para melhor UX.
+- 📱 **Interface Responsiva**: Adaptada para diferentes tamanhos de tela.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5:** Estruturação semântica de todas as páginas.
-- **CSS3:** Estilização visual (layouts e design).
+- **Linguagem:** HTML5 (Estruturação semântica)
+- **Estilização:** CSS3 (Layout e Design)
 
 ---
 
-## ⚙️ Como Visualizar
+## 📂 Estrutura do Site
 
-Para abrir o site localmente:
+```text
+LeGatito/
+├── index.html            # Página inicial
+├── alimentos.html        # Seção de rações
+├── arranhadores.html     # Catálogo de acessórios
+├── brinquedos.html       # Variedade de brinquedos
+├── erro404.html          # Página de erro customizada
+└── img/                  # Recursos visuais do site
+```
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/jmpfbr/LeGatito.git
+---
 
-2. Navegue até a pasta LeGatito.
+⚙️ Como Visualizar
+Clone o repositório:
 
-3. Dê um clique duplo no arquivo index.html.
+```text
+git clone [https://github.com/jmpfbr/LeGatito.git](https://github.com/jmpfbr/LeGatito.git)
+```
 
-4. O site será aberto no seu navegador padrão.
+Abra o projeto:
+
+Navegue até a pasta e abra o arquivo index.html em seu navegador de preferência.
+
+---
+
+📌 Objetivo Acadêmico
+
+Este projeto foi desenvolvido como parte dos estudos em Sistemas de Informação, com foco na prática de desenvolvimento web front-end e organização de arquitetura de pastas para sites estáticos.
+
+---
+
+👨‍💻 Autor
+
+João Marcos Fierro 
+
+---
+
+📄 Licença
+
+Fierro Softwares
+
+Este projeto é de uso acadêmico e livre para estudos.
