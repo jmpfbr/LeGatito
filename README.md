@@ -1,7 +1,6 @@
 # 🐱 LeGatito - Pet Shop Online
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 O **LeGatito** é um site fictício de pet shop totalmente focado em artigos felinos, desenvolvido para praticar a estruturação de sites multi-páginas e design responsivo.
